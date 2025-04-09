@@ -13,8 +13,7 @@ Soy un apasionado en explorar nuevas formas de hacer las cosas, compartir conoci
 
 Con 16 años de experiencia en ingenieria de software, hoy me desempeño como Coach en DevSecOps, me dedico a la innovación y seguridad en el desarrollo tecnológico. Promuevo activamente la integración de prácticas DevSecOps, asegurando que la seguridad y eficiencia sean parte integral de los procesos de desarrollo y acelerando el ciclo completo. Mi trayectoria profesional también incluye roles importantes como arquitecto de soluciones y diseñador de arquitectura de software, donde la colaboración y comunicación empática han sido clave para lograr resultados exitosos.
 
-
-- Mi [Linkedin](www.linkedin.com/in/idsanchezf)
+- Mi [Linkedin](https://linkedin.com/in/idsanchezf)
 - Mi [Blog Medium](https://medium.com/@idsanchezf)
 - My Email: idsanchezf@gmail.com
 
